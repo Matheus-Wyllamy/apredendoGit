@@ -4,3 +4,5 @@ document.getElementById('titulo2').innerHTML = 'testando'
 
 let newElement = document.getElementById("newElement")
 console.log(newElement)
+
+console.log("Exercicio de commits")
